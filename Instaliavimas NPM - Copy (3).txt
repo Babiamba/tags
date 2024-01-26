@@ -1,0 +1,1 @@
+NPM Nodejs atidaryti cmd node terminala, su cd pereiti i frontend kataloga ir po to i pvz. src kataloga, kur bus index.js failas ir pagal pvz. instaiuoti npm ir kitas komandas: npm install --save webpack ir taip toliau.
